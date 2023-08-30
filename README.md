@@ -1,2 +1,3 @@
-# Bharat-Intern
-data science task 1
+# Bharat-Intern Task1
+stock prediction
+data science internsip
